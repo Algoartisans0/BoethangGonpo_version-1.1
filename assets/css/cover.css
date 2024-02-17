@@ -5,6 +5,10 @@ body{
     background-color: #F0F1F3;
     text-decoration:none;
     }
+.contact__img{
+    max-width:80%;
+    padding-left: 3rem;
+}
 .container-fluid{background-color: #171717}
 .msg-form{background-color: white;padding: 20px}
 .pad-icon{padding-top: 50px;padding-left: 20px}
