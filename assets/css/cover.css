@@ -1,0 +1,31 @@
+head{
+    text-decoration: none;
+}
+body{
+    background-color: #F0F1F3;
+    text-decoration:none;
+    }
+.container-fluid{background-color: #171717}
+.msg-form{background-color: white;padding: 20px}
+.pad-icon{padding-top: 50px;padding-left: 20px}
+.pad-icon a
+{
+    text-decoration:none;
+    margin-right: 15px;
+    font-size: 30px
+}
+.input-group input:focus{border: 1px solid #D2321E}
+.pad-icon a:active{height: 30px;width: 30px;background-color: #F0F1F3;border-radius: 100%}
+.links{padding-top: 50px;width:100%}
+#bordering a:active{border:1px solid #F0F1F3}@media(min-width:568px)
+{
+    .container-fluid{margin: 100px 30px;width: 96%;padding-top: 50px;padding-bottom: 50px}
+}
+@media(max-width:567px)
+{
+    .container-fluid{margin: 10px 10px;width: 94%;padding-top: 20px;padding-bottom: 20px}
+    .pad{padding-top: 20px}
+}
+.text-white {
+    text-align: center;
+}
